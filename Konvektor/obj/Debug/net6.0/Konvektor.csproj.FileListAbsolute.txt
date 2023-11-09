@@ -1,0 +1,17 @@
+C:\Users\Dmitrii Tihonov\source\repos\Konvektor\Konvektor\bin\Debug\net6.0\Konvektor.exe
+C:\Users\Dmitrii Tihonov\source\repos\Konvektor\Konvektor\bin\Debug\net6.0\Konvektor.deps.json
+C:\Users\Dmitrii Tihonov\source\repos\Konvektor\Konvektor\bin\Debug\net6.0\Konvektor.runtimeconfig.json
+C:\Users\Dmitrii Tihonov\source\repos\Konvektor\Konvektor\bin\Debug\net6.0\Konvektor.dll
+C:\Users\Dmitrii Tihonov\source\repos\Konvektor\Konvektor\bin\Debug\net6.0\Konvektor.pdb
+C:\Users\Dmitrii Tihonov\source\repos\Konvektor\Konvektor\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Dmitrii Tihonov\source\repos\Konvektor\Konvektor\obj\Debug\net6.0\Konvektor.csproj.AssemblyReference.cache
+C:\Users\Dmitrii Tihonov\source\repos\Konvektor\Konvektor\obj\Debug\net6.0\Konvektor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitrii Tihonov\source\repos\Konvektor\Konvektor\obj\Debug\net6.0\Konvektor.AssemblyInfoInputs.cache
+C:\Users\Dmitrii Tihonov\source\repos\Konvektor\Konvektor\obj\Debug\net6.0\Konvektor.AssemblyInfo.cs
+C:\Users\Dmitrii Tihonov\source\repos\Konvektor\Konvektor\obj\Debug\net6.0\Konvektor.csproj.CoreCompileInputs.cache
+C:\Users\Dmitrii Tihonov\source\repos\Konvektor\Konvektor\obj\Debug\net6.0\Konvektor.csproj.CopyComplete
+C:\Users\Dmitrii Tihonov\source\repos\Konvektor\Konvektor\obj\Debug\net6.0\Konvektor.dll
+C:\Users\Dmitrii Tihonov\source\repos\Konvektor\Konvektor\obj\Debug\net6.0\refint\Konvektor.dll
+C:\Users\Dmitrii Tihonov\source\repos\Konvektor\Konvektor\obj\Debug\net6.0\Konvektor.pdb
+C:\Users\Dmitrii Tihonov\source\repos\Konvektor\Konvektor\obj\Debug\net6.0\Konvektor.genruntimeconfig.cache
+C:\Users\Dmitrii Tihonov\source\repos\Konvektor\Konvektor\obj\Debug\net6.0\ref\Konvektor.dll
